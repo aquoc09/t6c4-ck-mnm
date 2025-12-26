@@ -1,6 +1,8 @@
 Họ và tên: Nguyễn Võ Anh Quốc
 MSSV: DH52201324
+Ca học: T2C3
 Repo path: git@github.com:aquoc09/t6c4-ck-mnm.git
 
 Ten : Nguyen Le Quang Vinh  - DH52201758
+Ca học: T6C3
 Repo:git@github.com:aquoc09/t6c4-ck-mnm.git
